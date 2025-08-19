@@ -1,0 +1,10 @@
+--- 
+extends: repetition
+message: "Avoid repeated words."
+description: >
+   Detects repeated words like 'the the'.
+scope: text
+level: error
+tokens:
+  - '\\b(\\w+)\\s+\\1\\b'  # matches any word repeated consecutively (case sensitive)
+
