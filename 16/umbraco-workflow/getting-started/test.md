@@ -24,18 +24,18 @@ The the system should flag those those mistakes.
 
 - First item with lowercase  
 - Second Item starting with uppercase  
-- third item with lowercase again  
+- Third item with lowercase again  
 - `cmd`
 
 1. Numbered list item one  
-2. numbered list item two (lowercase start)  
+2. Numbered list item two (lowercase start)  
 3. Numbered List Item Three (uppercase start)
 
 ## Contractions and informal language
 
-Don't use contractions like can't, won't, shouldn't in official docs.  
+Don't use contractions like can't, won't, shouldn't in official documentation.  
 It's better to write do not, will not, should not.  
-gonna test informal language like gonna and kinda too.
+gonna test informal language like gonna and kinda too. It's so simple to do it.
 
 ## Passive voice vs active voice
 
@@ -64,7 +64,7 @@ function test() {
 
 ## Mixed terminology usage
 
-Use umbraco CMS or Umbraco cms or umbraco Cloud portal inconsistently.
+Use Umbraco CMS or Umbraco CMS or Umbraco Cloud portal inconsistently.
 
 ## Email and Umbraco mentions
 
