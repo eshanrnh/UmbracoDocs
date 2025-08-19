@@ -2,7 +2,7 @@
 extends: regex
 message: "Avoid repeated words."
 description: >
-  Repeated words can confuse readers and should be corrected.
+   Detects repeated words like 'the the'.
 scope: text
 level: error
 tokens:
