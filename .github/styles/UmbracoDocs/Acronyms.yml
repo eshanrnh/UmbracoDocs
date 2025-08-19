@@ -14,11 +14,11 @@ first:  '\b([A-Z]{3,5})\b'
 # Capitalized phrase followed by acronym in parentheses
 second:  >-
   (
-    \b([A-Z]{3,5}):\s+((?:\b[A-Z][a-z\-]+(?:\s|$))+)
+  \b([A-Z]{3,5}):\s+((?:\b[A-Z][a-z\-]+(?:\s|$))+)
   )
   |
   (
-    ((?:\b[A-Z][a-z\-]+(?:\s|$))+) \(([A-Z]{3,5})\)
+    ((?:\b[A-Z][a-z\-]+(?:\s|$))+) \(([A-Z]{3,5})\)(\b|[^)]*)
   )
 # ... with the exception of these. Sorted alphabetically for easier maintenance.
 exceptions:
