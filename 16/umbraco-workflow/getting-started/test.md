@@ -8,6 +8,7 @@ this file contains a bunch of common errors and styleguide issues to test automa
 the CMS (content management system) is sometimes called CMS but its best to define it first.  
 dont confuse API and api usage. also, abbreviations like SQL or HTML should be capitalized.  
 Simple Mail Transfer Protocol (SMTP) stands for Simple Mail Transfer Protocol and should be spelled out on first use.
+Simple Mail Transfer Protocol (SMTP) stands for Simple Mail Transfer Protocol and should be spelled out on first use.
 
 ## Punctuation mistakes
 
@@ -37,6 +38,8 @@ Don't use contractions like can't, won't, shouldn't in official documentation.
 It's better to write do not, will not, should not.  
 gonna test informal language like gonna and kinda too. It's so simple to do it.
 
+Easily upload your files and downlading it is so simple.
+
 ## Passive voice vs active voice
 
 The content is managed by the admin.  
@@ -49,6 +52,8 @@ Check out https://umbraco.com/cloudportal for more info.
 Also see [for more info](cloudportal.md) <- relative link missing slash  
 [Broken Link](../docs/not-exist.md)  
 Inline code without backticks like this public void Test() is wrong.
+
+Read More docs here.
 
 ## Code block without language
 
@@ -71,15 +76,23 @@ Use Umbraco CMS or Umbraco CMS or Umbraco Cloud portal inconsistently.
 Please contact support@umbraco.com for help.  
 This is a simple example to check email and Umbraco references.
 
+
+See wwww.umbraco.dk for more info on CMS.
+
 ## Long sentences with run on punctuation!!!
 
 This sentence, has too many commas, and periods... and ellipsis... and it just keeps going on and on and on and on without stopping
+
+Can you find this sentence wrong - This sentence, has too many commas, and periods... and ellipsis... and it just keeps going on and on and on and on without stopping
 
 ## Extra spaces and tabs
 
 This line has two spaces at the end.  
 This line has a	tab character.
 
+
+
+This line has two spaces at the end.  
 ---
 
 End of the test file.  
