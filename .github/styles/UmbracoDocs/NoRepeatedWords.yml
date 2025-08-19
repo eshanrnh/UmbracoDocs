@@ -1,5 +1,5 @@
 --- 
-extends: regex
+extends: repetition
 message: "Avoid repeated words."
 description: >
    Detects repeated words like 'the the'.
