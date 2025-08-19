@@ -1,21 +1,19 @@
 
-# TEST file For umbraco Docs
+# Test file for Umbraco documentation
 
 this file contains a bunch of common errors and styleguide issues to test automations
 
 ## Acronyms and abbreviations
 
-the cms (content management system) is sometimes called CMS but its best to define it first.  
+the CMS (content management system) is sometimes called CMS but its best to define it first.  
 dont confuse API and api usage. also, abbreviations like SQL or HTML should be capitalized.  
-SMTP stands for Simple Mail Transfer Protocol and should be spelled out on first use.
+Simple Mail Transfer Protocol (SMTP) stands for Simple Mail Transfer Protocol and should be spelled out on first use.
 
 ## Punctuation mistakes
 
-- missing periods in list items  
-- inconsistent comma usage, like this, or this  
-- exclamation marks!!!  
-- ellipsis... used incorrectly...  
-- double spaces after periods.  like this.
+- Missing periods in list items  
+- Inconsistent comma usage, like this, or this  
+- Double spaces after periods. like this.
 
 ## Repeated repeated words and typos
 
@@ -24,7 +22,7 @@ The the system should flag those those mistakes.
 
 ## Lists capitalization inconsistency
 
-- first item with lowercase  
+- First item with lowercase  
 - Second Item starting with uppercase  
 - third item with lowercase again  
 - `cmd`
@@ -48,7 +46,7 @@ Errors are fixed by developers quickly.
 ## Incorrect links and formatting
 
 Check out https://umbraco.com/cloudportal for more info.  
-Also see [the Cloud Portal](cloudportal.md) <- relative link missing slash  
+Also see [for more info](cloudportal.md) <- relative link missing slash  
 [Broken Link](../docs/not-exist.md)  
 Inline code without backticks like this public void Test() is wrong.
 
