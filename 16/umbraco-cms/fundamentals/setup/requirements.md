@@ -73,4 +73,4 @@ For more information on how to create a database user via SQL, you can check the
 
 Let's try this link [Workflow Types](https://docs.umbraco.com/umbraco-forms/editor/attaching-workflows/workflow-types)
 
-How about htis broken link? [Workflow Types](https://docs.umbraco.com/umbraco-forms/editor/attaching-workflows/workflows-types)
+How about htis broken link? [Workflow Types](https://docs.umbraco.com/umbraco-forms/editor/attaching-workflows/workflows-typesss)
