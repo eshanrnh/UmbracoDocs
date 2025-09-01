@@ -10,7 +10,7 @@ Umbraco contains different types of controllers to perform different tasks:
 
 * [Render MVC Controllers](controllers.md#render-mvc-controllers)
 * [Surface Controllers](controllers.md#surface-controllers)
-* [Public API Controllers](controllers.md#umbraco-api-controllers)
+* [Public API Controllers](controllers.md#public-api-controllers)
 * [Backoffice API Controllers](controllers.md#backoffice-api-controllers)
 
 ## Render MVC Controllers
@@ -46,3 +46,5 @@ The Umbraco Backoffice API is also known as the Management API. Thus, a Backoffi
 {% include "../.gitbook/includes/umbraco-mvc-training-course.md" %}
 
 Let's test this file with internal anchors.
+
+
