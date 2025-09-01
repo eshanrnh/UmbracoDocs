@@ -196,3 +196,28 @@ Learn more about this in the [Dependency Injection](../reference/using-ioc.md) a
 6. Run the website.
 
 ![Entra ID Login Screen](<../../../10/umbraco-cms/reference/security/images/AD\_Login\_Members (1).png>)
+
+
+## Lychee Test Links
+
+### ✅ Valid links
+
+- [Google](https://www.google.com)  
+- [GitHub](https://github.com)  
+- [Upgrading Deploy](https://docs.umbraco.com/umbraco-deploy/upgrading/upgrades)
+
+### ❌ Broken links
+
+- [Broken domain](https://thisdomaindoesnotexist.openai)  
+- [404 page](https://docs.umbraco.com/umbraco-forms/editor/attaching-workflows/workflows-types)  
+- [Typo in domain](https://www.googlle.com)  
+- [Commerce Configuration](https://docs.umbraco.com/umbraco-commerce/getting-started/umbraco-configurations)
+
+### ❌ Wrong anchors
+
+- [Wrong anchor](https://docs.umbraco.com/umbraco-forms/editor/attaching-workflows#non-existing-anchor)  
+
+### ⚠️ Timeout-prone links (optional tests)
+
+- [Umbraco Issues](https://issues.umbraco.org/issue/U4-1234)  
+- [Example CAPTCHA site](https://www.linkedin.com)  
