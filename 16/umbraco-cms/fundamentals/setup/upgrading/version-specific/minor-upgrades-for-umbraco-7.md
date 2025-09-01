@@ -19,7 +19,7 @@ In this article you will find instructions for 2 different ways of upgrading:
 * [Upgrade using NuGet](minor-upgrades-for-umbraco-7.md#upgrade-using-nuget)
 * [Upgrade manually from a Zip file](minor-upgrades-for-umbraco-7.md#upgrade-manually-from-a-zip-file)
 * [Broken Link](https://docs.umbraco.com/umbraco-forms/developer/ajaxformsse)
-* [training link](https://umbraco.com/customer/training)
+* [Training link](https://umbraco.com/customer/training)
 
 ## Upgrade using NuGet
 
