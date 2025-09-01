@@ -15,6 +15,12 @@ The steps we will go through in this part are:
 1. [Using UI Box](extending-the-dashboard-using-umbraco-ui-library.md#ui-box)
 2. [Using UI Table](extending-the-dashboard-using-umbraco-ui-library.md#ui-table)
 3. [Challenge (Optional)](extending-the-dashboard-using-umbraco-ui-library.md#challenge-optional)
+4. [Nonexistent domain](https://totallyfakeexampledomain.umbraco)
+5. [Dead site](http://idontexist12345.com)
+6. [Umbraco Docs 404](https://docs.umbraco.com/umbraco-forms/editor/this-page-does-not-exist)
+7. [GitHub repo 404](https://github.com/umbraco/umbraco-cms/tree/non-existing-branch)
+
+
 
 ### Umbraco UI Library
 
