@@ -44,3 +44,5 @@ The Umbraco Backoffice API is also known as the Management API. Thus, a Backoffi
 ***
 
 {% include "../.gitbook/includes/umbraco-mvc-training-course.md" %}
+
+Let's test this file with internal anchors.
