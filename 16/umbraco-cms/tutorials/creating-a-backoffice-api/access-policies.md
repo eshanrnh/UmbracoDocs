@@ -69,5 +69,3 @@ public class MyItemApiController : ManagementApiControllerBase
 ```
 {% endcode %}
 
-
-[testlink](gole.com)
