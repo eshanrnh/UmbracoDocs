@@ -116,6 +116,7 @@ This concludes this tutorial. Find related information and further reading in th
 - [Google](https://www.google.com) 
 - [GitHub](https://github.com) 
 - [Upgrading Deploy](https://docs.umbraco.com/umbraco-deploy/upgrading/upgrades) 
+- [Config](https://docs.umbraco.com/umbraco-forms/developer/configuration#useviewengineformthemeresolver)
 
 ### ❌ Broken links 
 
