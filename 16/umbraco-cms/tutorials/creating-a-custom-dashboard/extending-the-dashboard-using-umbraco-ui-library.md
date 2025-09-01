@@ -17,7 +17,7 @@ The steps we will go through in this part are:
 3. [Challenge (Optional)](extending-the-dashboard-using-umbraco-ui-library.md#challenge-optional)
 4. [Nonexistent domain](https://totallyfakeexampledomain.umbraco)
 5. [Dead site](http://idontexist12345.com)
-6. [Umbraco Docs 404](https://docs.umbraco.com/umbraco-forms/editor/this-page-does-not-exist)
+6. [Umbraco D 404](https://docs.umbraco.com/umbraco-forms/editor/this-page-does-not-exist)
 7. [GitHub repo 404](https://github.com/umbraco/umbraco-cms/tree/non-existing-branch)
 
 
