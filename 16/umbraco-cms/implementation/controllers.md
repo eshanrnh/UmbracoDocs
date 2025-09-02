@@ -12,6 +12,7 @@ Umbraco contains different types of controllers to perform different tasks:
 * [Surface Controllers](controllers.md#surface-controllers)
 * [Public API Controllers](controllers.md#umbraco-api-controllers)
 * [Backoffice API Controllers](controllers.md#backoffice-api-controllers)
+* [Testing anchor link](controllers.md#testing-anchor-link)
 
 ## Render MVC Controllers
 
