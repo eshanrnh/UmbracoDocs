@@ -13,7 +13,6 @@ Umbraco contains different types of controllers to perform different tasks:
 * [Public API Controllers](controllers.md#public-api-controllers)
 * [Backoffice API Controllers](controllers.md#backoffice-api-controllers)
 
-
 ## Render MVC Controllers
 
 When you make a page request to the MVC application, a controller is responsible for returning the response to that request. The controller can perform one or more actions.
@@ -45,3 +44,26 @@ The Umbraco Backoffice API is also known as the Management API. Thus, a Backoffi
 ***
 
 {% include "../.gitbook/includes/umbraco-mvc-training-course.md" %}
+
+
+## Broken Links Test
+
+✅ Working:
+
+- [Example](https://example.com)
+
+🔁 Redirects:
+
+- [Redirect to HTTPS](http://github.com)
+- [Umbraco CMS](https://docs.umbraco.com/umbraco-cms/customizing/foundation/working-with-data.md)
+
+⏳ Timeout/SSL:
+
+- [Slow Response](https://httpstat.us/200?sleep=5000)
+- [Bad SSL](https://expired.badssl.com/)
+- [Wiki](https://www.wikipedia.org:81)
+
+🚫 Excluded (configure in .lycheeignore):
+
+- [Private Page](https://umbraco.com/internal/secret)
+- [API](https://apidocs.umbraco.com/v16/ui-api/classes/packages_core_auth.UmbAuthContext.html#tryexecute)
