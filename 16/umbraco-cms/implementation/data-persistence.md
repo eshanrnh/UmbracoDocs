@@ -34,3 +34,5 @@ There is a service for each type of data in Umbraco.
 
 Let's test this after introducing a broken link:
 
+- [Training](https://umbraco.com/trainings)
+- [Umbraco CMS](https://umbraco.com/products/umbraco-ccms/)
