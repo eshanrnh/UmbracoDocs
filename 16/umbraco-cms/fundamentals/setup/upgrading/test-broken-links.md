@@ -16,6 +16,7 @@
 - [Rich Text Editor Blocks](../../backoffice/property-editors/built-in-umbraco-property-editors/collection.md#order-by)
 - [Relative link to directory](../../backoffice/)
 - [Redirect link](https://docs.umbraco.com/umbraco-cms/customizing/foundation/working-with-data/store)
+- [Image reference](../../../.gitbook/assets/are-you-hungry.png)
 
 ## Invalid Links
 
