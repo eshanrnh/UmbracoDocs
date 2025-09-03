@@ -16,12 +16,6 @@ The Eye Dropper Color picker allows you to choose a color from the full color sp
 
 ![Eye Dropper Color Picker Content](images/Eye-Dropper-Color-Picker-Content.png)
 
-## Broken internal file
-- [Missing File](16/umbraco-cms/fake-folder/missing.md)  <!-- ⚓ Anchor not found -->
-
-## Broken anchor
-- [Nonexistent Anchor](16/umbraco-cms/implementation/controllers.md#nonexistent-anchor)  <!-- ⚓ Anchor not found -->
-
 ## Example with Models Builder
 
 ```csharp
