@@ -44,3 +44,9 @@ The Umbraco Backoffice API is also known as the Management API. Thus, a Backoffi
 ***
 
 {% include "../.gitbook/includes/umbraco-mvc-training-course.md" %}
+
+Testing broken links
+
+[CMS Page](https://umbraco.com/products/umbraco-ccms/)
+
+* Block-rte - Blocks used inline in the [Rich Text editor](../fundamentals/backoffice/property-editors/built-in-umbraco-property-editors/rich-text-editor/blocks.md)
