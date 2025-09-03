@@ -10,6 +10,8 @@ While you get a lot of fantastic features with Umbraco Cloud, SMTP server is not
 
 Working with Umbraco Forms, allows you to set up email workflows that enable you to send emails through Forms - This requires an SMTP service. Another great use of SMTP service is if you want to add users to your project's Backoffice. The service requires SMTP to send the invitation from the project to the new user. This also applies to sending emails to users who have requested a password reset.
 
+* [Testing Links](https://umbraco.com/products/umbraco-ccloud/)
+
 ## [Manage Hostnames](manage-hostnames/)
 
 When you create a project on Umbraco Cloud, the generated project URL is based on the project's name and that might not be the preferred URL for your website. Therefore, you have the option to add your hostname.

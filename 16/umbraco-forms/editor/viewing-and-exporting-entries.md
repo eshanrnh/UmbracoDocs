@@ -58,3 +58,6 @@ Select at least 1 record to see the available actions. By default, there are 2 p
 
 * Clear
 * Delete
+
+
+* [Testing Links](https://umbraco.com/products/umbraco-cforms/)

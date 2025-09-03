@@ -112,8 +112,3 @@ If Models Builder is enabled you can get the alias of the desired property witho
 }
 ```
 
-Blocks used inline in the [Rich Text editor](../fundamentals/backoffice/property-editors/built-in-umbraco-property-editors/rich-text-editor/blocks.md)
-
-* [Testing Links](https://umbraco.com/products/umbraco-ccms/)
-
-Blocks used inline in the [Rich Text editor](../fundamentals/backoffice/property-editors/built-in-umbraco-property-editors/rich-text-editor/)
