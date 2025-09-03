@@ -111,3 +111,6 @@ If Models Builder is enabled you can get the alias of the desired property witho
     content.SetValue(Home.GetModelPropertyType(PublishedContentTypeCache, x => x.RichText).Alias, htmlValue);
 }
 ```
+
+
+Testing
