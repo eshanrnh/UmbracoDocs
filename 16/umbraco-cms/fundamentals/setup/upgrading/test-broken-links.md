@@ -3,7 +3,7 @@
 ## External links (valid)
 
 - [Umbraco homepage](https://umbraco.com/)
-- [Docs root](https://docs.umbraco.com/)
+- [Doc root](https://docs.umbraco.com/)
 
 ## Internal links (valid)
 
@@ -37,3 +37,12 @@
 
 - [Fake anchor](../fundamentals/setup/upgrading/version-specific.md#this-anchor-does-not-exist)
 - [Heading without file](upgrading/#breaking-changes) <!-- tricky case -->
+
+## Mixed content
+
+- [Relative link to dir](../fundamentals/backoffice/) <!-- may or may not pass -->
+- [Image reference](../assets/images/logo.png) <!-- Lychee usually ignores unless configured -->
+
+## Redirects (should pass if allow_redirect: true in .lychee.yml)
+
+- [Redirecting link](https://umbraco.com/products/umbraco-cms/)
