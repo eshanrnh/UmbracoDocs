@@ -13,7 +13,7 @@ This tutorial will take you through the steps of building and configuring a site
 If you are in a hurry, there is a community package that can do the job for you:
 
 * [SEO Tool Kit](https://marketplace.umbraco.com/package/seotoolkit.umbraco)
-* [SEO Tool Kit](https://marketplace.umbraco.com/package/seotoolkit.umbraco-seo)
+* [SEO Tool Kit](https://marketplacess.umbraco.com/home/error)
 
 ## What does an XML sitemap look like?
 
