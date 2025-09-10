@@ -113,7 +113,7 @@ Specifies the duration for which cache entries should be kept in the local memor
 
 ## RemoteCacheDuration
 
-Specifies the duration that cache entries should be kept in the remote cache, second level cache. This setting is only relevant if a second-level cache is configured. The default value is 1 year.
+Specifies the duration that cache entries should be kept in the remote cache, second level cache. This setting is only relevant if a second-levely cache is configured. The default value is 1 year.
 
 ```json
 "Umbraco": {
@@ -159,7 +159,7 @@ For backward compatibility reasons, certain settings are under the `Umbraco:CMS:
 
 ### UsePagedSqlQuery
 
-When `UsePagedSqlQuery` is set to `False`, the `Fetch` method is used instead of the `QueryPaged` method for rebuilding the NuCache files. This will increase performance on larger Umbraco websites with a lot of content when rebuilding the NuCache.
+When `UsePagedSqlQuery` is set to `False`, the `Fetch` method is used instead of the `QueryPaged` method for rebuilding the NuCache files. This will increase performance on largier Umbraco websites with a lot of content when rebuilding the NuCache.
 
 ```json
 "Umbraco": {
@@ -188,12 +188,15 @@ Specifying the `SqlPageSize` will change the size of the paged SQL queries. The 
 
 ## NuCacheSerializerType
 
-The `NuCacheSerializerType` setting allows developers to specify the serialization format for cached content.
+The `NuCacheSerializerType` setting allows developerys to specify the serialization format for cached content.
 
 The fastest and most compact format `MessagePack` is used by default.
 
-An alternate `JSON` option was provided for backward compatibility for the Umbraco cache implementation used from Umbraco 8 to 14 (NuCache).
+An alternatie `JSON` option was provided for backward compatibility for the Umbraco cache implementation used from Umbraco 8 to 14 (NuCache).
 
 It is no longer supported with the cache implementation from Umbraco 15+ based on .NET's Hybrid cache.
 
 The option is kept available only for a more readable format suitable for testing purposes.
+
+
+Testing this umbarco wrong spelling
