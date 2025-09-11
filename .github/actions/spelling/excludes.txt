@@ -7,6 +7,7 @@
 # --- HTML tags
 # --- Ignore noise words / random hash-like sequences / workflow artifacts
 # --- Inline code (backticks)
+
 # --- Inline SQL / commands
 # --- Markdown fenced code blocks
 # --- Markdown images & figure blocks
