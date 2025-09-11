@@ -1,3 +1,26 @@
+<<<<<<< HEAD
+ADDD
+AEDD
+AOJ
+BDEEF
+bfb
+BQk
+Byxw
+DAFA
+DMCTD
+Fct
+FFB
+Gmo
+issuecomment
+Kcv
+KMqu
+MCE
+Tpqk
+whatisadashboardv
+Xfi
+ZAj
+astextplain
+=======
 # Words that exist in the repo but cannot be corrected
 Adress
 embeded
@@ -5,3 +28,4 @@ gettting
 personalizaed
 pligins
 favouritethings
+>>>>>>> 4728dd881212b854ca9cec9eeb6f8cb49e880d95
