@@ -1,64 +1,53 @@
+!\[.*?\]\(.*?\)
+# --- Common placeholders
+# --- Config / metadata files
+# --- Escaped underscores in alt-text
+# --- Filenames and file extensions
+# --- GitHub handles / mentions
+# --- HTML tags
+# --- Ignore noise words / random hash-like sequences / workflow artifacts
+# --- Inline code (backticks)
+# --- Inline SQL / commands
+# --- Markdown fenced code blocks
+# --- Markdown images & figure blocks
+# --- Markdown links
+# --- Markdown tables (ignore entire rows)
+# --- Numeric error/status codes (e.g., 200, 404, 500)
+# --- Raw URLs
+# --- Windows paths
+# --- YAML frontmatter separators
 # ==========================
 # UmbracoDocs spelling excludes
-# ==========================
-
-# --- Markdown fenced code blocks
+(?:|$^ 99% - excluded 337/340)^13/
+(?:|$^ 99% - excluded 411/414)^16/
+(?:|$^ 99% - excluded 441/444)^10/
+(?:|$^ 99% - excluded 704/710)/assets/[^/]+$
+(?:|$^ 99% - excluded 949/952)/images/[^/]+$
 (?s)```.*?```
-
-# --- Inline code (backticks)
-`[^`]+`
-
-# --- Inline SQL / commands
-^EXEC\s+.*$
-^sp_rename\s+.*$
-^CREATE\s+TABLE\s+.*$
-^ALTER\s+TABLE\s+.*$
-
-# --- Markdown images & figure blocks
-!\[.*?\]\(.*?\)
-^images/
-^assets/
-<figure>.*</figure>
-
-# --- Markdown links
-\[.*?\]\(.*?\)
-
-# --- Raw URLs
-https?://\S+
-
-# --- Filenames and file extensions
-\w+\.(jpg|jpeg|png|gif|svg|pdf|docx|pptx|xlsx|zip|tar|gz|dll|exe|ps1|sh|bat|cs|js|ts|json|yml|yaml|md|config|rtf)$
-
-# --- Windows paths
-[A-Za-z]:\\[^\s]+
-
-# --- Numeric error/status codes (e.g., 200, 404, 500)
-\b\d{3}\b
-
-# --- Markdown tables (ignore entire rows)
-^\|.*\|$
-
-# --- HTML tags
-<[^>]+>
-
-# --- GitHub handles / mentions
-@\w+
-
-# --- Escaped underscores in alt-text
-\\_
-
-# --- Common placeholders
-{.*?}          # e.g., {project}, {user}, {token}
 <.*?>          # e.g., <value>, <connectionString>
-
-# --- Ignore noise words / random hash-like sequences / workflow artifacts
+<[^>]+>
+<figure>.*</figure>
+@\w+
+[^/]\.png$
+[A-Za-z]:\\[^\s]+
+\[.*?\]\(.*?\)
+\\_
 \b(ADDD|AEDD|AOJ|BDEEF|bfb|BQk|Byxw|DAFA|DMCTD|Fct|FFB|Gmo|Kcv|KMqu|MCE|Tful|Tpqk|whatisadashboardv|Xfi|ZAj|longanswer|issuecomment|astextplain)\b
-
-# --- Config / metadata files
-^\.gitattributes$
-^\.gitignore$
-^\.editorconfig$
-^\.github/
-
-# --- YAML frontmatter separators
+\b\d{3}\b
+\w+\.(jpg|jpeg|png|gif|svg|pdf|docx|pptx|xlsx|zip|tar|gz|dll|exe|ps1|sh|bat|cs|js|ts|json|yml|yaml|md|config|rtf)$
 ^---$  
+^15/
+^\.editorconfig$
+^\.gitattributes$
+^\.github/
+^\.gitignore$
+^\|.*\|$
+^ALTER\s+TABLE\s+.*$
+^assets/
+^CREATE\s+TABLE\s+.*$
+^EXEC\s+.*$
+^images/
+^sp_rename\s+.*$
+`[^`]+`
+https?://\S+
+{.*?}          # e.g., {project}, {user}, {token}
