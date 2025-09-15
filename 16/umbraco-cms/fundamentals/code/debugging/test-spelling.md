@@ -4,11 +4,11 @@ This is a test file to check Vale spelling.
 
 Here are some intentional typos:
 
-compatability
-accetps
-updraded
-recuring
-trys
-indefinately
-followin
-Umbarco
+compatibility
+accepts
+upgraded
+recurring
+tries
+indefinitely
+following
+Umbraco
